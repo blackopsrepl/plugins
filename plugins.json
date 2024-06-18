@@ -318,6 +318,54 @@
   {
     "name": "CATalogator",
     "url": "https://github.com/Fede91/catalogator"
+  },
+  {
+    "name": "Piper Cat",
+    "url": "https://github.com/pazoff/Piper-Cat"
+  },
+  {
+    "name": "DuckCatGo",
+    "url": "https://github.com/giacomo83m/duckcatgo"
+  },
+  {
+    "name": "Auto metadata chunk and filter",
+    "url": "https://github.com/ElioErrico/Auto_metadata_chunk_and_filter"
+  },
+  {
+    "name": "Transcription for YouTube videos",
+    "url": "https://github.com/Sakyce/cheshire_summarize_video"
+  },
+  {
+    "name": "Cheshire Cat AI Conversation Logger",
+    "url": "https://github.com/skeyby/ccat_conversation_logger"
+  },
+  {
+    "name": "Delete docs with metadata filter",
+    "url": "https://github.com/ElioErrico/CAT_delete_doc_with_metadata_filter"
+  },
+  {
+    "name": "AWS Client Configuration Manager",
+    "url": "https://github.com/ggiallo28/aws-integration"
+  },
+  {
+    "name": "Amazon Bedrock Embedders",
+    "url": "https://github.com/ggiallo28/amazon-bedrock-embedders"
+  },
+  {
+    "name": "Amazon Bedrock LLMs",
+    "url": "https://github.com/ggiallo28/amazon-bedrock-llms"
+  },
+  {
+    "name": "Aleph Alpha Integration",
+    "url": "https://github.com/nickprock/aleph-alpha-integration"
+  },
+  {
+    "name": "Formulas Fur Latex",
+    "url": "https://github.com/enricollen/FormulasFurLatex"
+  },
+  {
+    "name": "White Rabbit In Action",
+    "url": "https://github.com/lucagobbi/white-rabbit-in-action"
   }
   {
     "name": "Mystical Efficiency, Organized Whiskers!",
